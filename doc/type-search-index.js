@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"College"},{"p":"<Unnamed>","l":"Department"},{"p":"<Unnamed>","l":"Lecturer"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"Menu"},{"p":"<Unnamed>","l":"MenuExample"},{"p":"<Unnamed>","l":"Main.mFunc"},{"p":"<Unnamed>","l":"Person"},{"p":"<Unnamed>","l":"Student"}]

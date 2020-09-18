@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=colleges
+comment1.target=College\ change_collge(java.util.ArrayList)
+comment2.params=colleges
+comment2.target=College\ add_college(java.util.ArrayList)
+comment3.params=college
+comment3.target=void\ add_department(College)
+comment4.params=college
+comment4.target=void\ add_lecturer(College)
+comment5.params=college
+comment5.target=void\ asgn_lect_to_dep(College)
+comment6.params=college
+comment6.target=void\ add_student_dep(College)
+comment7.params=college
+comment7.target=void\ show_dep_stns(College)
+comment8.params=college
+comment8.target=void\ biggest_dep(College)
+numComments=9
